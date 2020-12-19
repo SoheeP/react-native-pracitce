@@ -1,2 +1,2 @@
 # react-native-pracitce
-react-native 요거저거
+react-native 연습용 repo
